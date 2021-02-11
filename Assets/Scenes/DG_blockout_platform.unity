@@ -1010,6 +1010,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: DG_BlockOut_Platform_04
       objectReference: {fileID: 0}
+    - target: {fileID: 1710947407636306346, guid: 2ded8edd5bc116f4da8b24f9144834d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1710947407636306349, guid: 2ded8edd5bc116f4da8b24f9144834d7,
         type: 3}
       propertyPath: m_RootOrder
@@ -1079,6 +1084,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: DG_BlockOut_Platform_03
       objectReference: {fileID: 0}
+    - target: {fileID: 2288739234053889686, guid: d099d021aedc3eb4e95fd63006c0b017,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2288739234053889687, guid: d099d021aedc3eb4e95fd63006c0b017,
         type: 3}
       propertyPath: m_RootOrder
@@ -1147,6 +1157,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: DG_BlockOut_Platform_07
+      objectReference: {fileID: 0}
+    - target: {fileID: 2793825120074665346, guid: e6ffa2e1168dde94fa8fc0956d679d40,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2793825120074665349, guid: e6ffa2e1168dde94fa8fc0956d679d40,
         type: 3}
@@ -1271,6 +1286,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: DG_BlockOut_Platform_05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3775069558501726070, guid: 6605d239621324b4d85a31694381dcfd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6605d239621324b4d85a31694381dcfd, type: 3}
@@ -1409,6 +1429,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: DG_BlockOut_Platform_06
+      objectReference: {fileID: 0}
+    - target: {fileID: 5586485182349854635, guid: 3d45727024660b146b444b1e750271fe,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d45727024660b146b444b1e750271fe, type: 3}
